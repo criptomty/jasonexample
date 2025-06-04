@@ -1,0 +1,14 @@
+{
+    "request": [
+        {
+            "ClaUbicacion": "442",
+            "ClaSapUbicacion": "DE31",
+            "Descripcion": "101 west 52th Ave, Denver, Colorado, USA, 80221"
+        },
+        {
+            "ClaUbicacion": "443",
+            "ClaSapUbicacion": "CG31",
+            "Descripcion": "804 W Gila Bend HWY, Casa Grande, Arizona, USA, 85122"
+        }
+    ]
+} 
